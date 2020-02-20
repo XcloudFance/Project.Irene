@@ -1,0 +1,8 @@
+Welcome to Project.Irene!
+I am your English assistant,Irene.
+Prior to IELTS simulation, you must know the following rules:
+1. In part 1, You can only speak less than 1min.
+2. In part 2, You must speak more than 2min. 
+3. In part 3, You can only speak less than 1min.
+
+After that, I will deliver the report with your score to you.And you can say 'Next' which means the next question.

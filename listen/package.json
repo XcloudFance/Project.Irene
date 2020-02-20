@@ -1,0 +1,17 @@
+{
+  "name": "iat-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "iat-ws-node.js",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1",
+    "ws": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node iat-ws-node.js",
+    "run":"ffmpeg -i test.mp3 -f s16le -ar 16000 -ac 1 -acodec pcm_s16le pcm16k.pcm"
+  },
+  "author": "",
+  "license": "ISC"
+}
