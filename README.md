@@ -4,6 +4,4 @@ A judgement which bases on itchat is used to judge your English pronunciation.<b
 Open your python and command.<br/>
 Input "python Irene.py"<br/>
 Scan your QR code.<br/>
-
-~~ 项目有点bug ~~
-~~ 不过我懒得修了 ~~
+<s>其实有点bug，但是懒得修了</s>
