@@ -3,4 +3,7 @@ A judgement which bases on itchat is used to judge your English pronunciation.<b
 <h1>Run it on your computer</h1>
 Open your python and command.<br/>
 Input "python Irene.py"<br/>
-Scan your `QR code`.<br/>
+Scan your QR code.<br/>
+
+~~ 项目有点bug ~~
+~~ 不过我懒得修了 ~~
